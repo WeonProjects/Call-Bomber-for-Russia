@@ -1,0 +1,8 @@
+C:\Users\mertk\source\repos\CallBomber\CallBomber\bin\Debug\CallBomber.exe.config
+C:\Users\mertk\source\repos\CallBomber\CallBomber\bin\Debug\CallBomber.exe
+C:\Users\mertk\source\repos\CallBomber\CallBomber\bin\Debug\CallBomber.pdb
+C:\Users\mertk\source\repos\CallBomber\CallBomber\obj\Debug\CallBomber.csproj.AssemblyReference.cache
+C:\Users\mertk\source\repos\CallBomber\CallBomber\obj\Debug\CallBomber.csproj.SuggestedBindingRedirects.cache
+C:\Users\mertk\source\repos\CallBomber\CallBomber\obj\Debug\CallBomber.csproj.CoreCompileInputs.cache
+C:\Users\mertk\source\repos\CallBomber\CallBomber\obj\Debug\CallBomber.exe
+C:\Users\mertk\source\repos\CallBomber\CallBomber\obj\Debug\CallBomber.pdb
